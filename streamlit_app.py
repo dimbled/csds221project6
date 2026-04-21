@@ -1,4 +1,5 @@
 ﻿import streamlit as st
+import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from textblob import TextBlob
 import re
